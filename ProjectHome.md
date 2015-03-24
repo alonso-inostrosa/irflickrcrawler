@@ -1,0 +1,1 @@
+Esta primera versión sólo recupera ID's de grupos según busquedas por palabras. Las palabras para buscar grupos están en un archivo, y se puede configurar un nro. de hilos para realizar búsquedas simultaneas. A cada hilo se le asigna una partición del grupo de palabras.
